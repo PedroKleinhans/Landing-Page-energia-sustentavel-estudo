@@ -1,0 +1,48 @@
+body{
+background-color: #F9F9F9;
+
+
+}
+
+.container
+{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+}
+
+.header-Texts nav
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.header-Texts a
+{   
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.header-Texts li
+{
+    margin-top: 20px;
+    margin-right: 800px;
+    list-style: none;
+
+}
+
+.logo-Header
+{
+    width: auto;
+    height: 50px;
+    margin-left:0px;
+    margin-top: 25px;
+
+}
